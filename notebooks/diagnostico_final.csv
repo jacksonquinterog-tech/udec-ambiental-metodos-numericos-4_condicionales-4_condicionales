@@ -1,0 +1,6 @@
+sitio,temperatura,categoria_temp,riesgo_termico,Unnamed: 0_x,oxigeno_x,nivel_oxigeno_x,riesgo_biologico_x,Unnamed: 0_y,oxigeno_y,nivel_oxigeno_y,riesgo_biologico_y,diagnostico_final
+Río Villeta,28.3,Alta,Alto,4,6.1,medio,sin alerta,4,6.1,medio,sin alerta,sin alerta
+Quebrada Cune (San Francisco),25.2,Alta,Alto,5,4.5,bajo,alerta,5,4.5,bajo,alerta,sin alerta
+Río Tobia (Nocaima),26.9,Alta,Alto,6,5.2,medio,sin alerta,6,5.2,medio,sin alerta,sin alerta
+Río Bahamón (Sasaima),27.6,Alta,Alto,8,6.7,medio,sin alerta,8,6.7,medio,sin alerta,sin alerta
+Río Guayuriba (La Mesa),30.5,Alta,Alto,9,4.8,bajo,alerta,9,4.8,bajo,alerta,sin alerta
